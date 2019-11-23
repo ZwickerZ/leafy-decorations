@@ -32,17 +32,20 @@ html {
   background-color: #fff;
   background-image: url("../images/leaf-icon.svg");
   border-color: #145b1d;
+  background-size: 50%;
+  background-position: .75em center;
+  background-repeat: no-repeat;
 }
 
 .banner {
   background:
-  linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0)),
-  url("../images/banner.jpg") no-repeat center center / cover;
+  linear-gradient(to top, rgba(16, 52, 41, .8) 25%, rgba(16, 52, 41, 0) 50%),
+    url("../images/banner.jpg") no-repeat center center / cover;
 }
 
 .banner-content {
-  background: url("../images/two-leaves.svg") no-repeat 0.75em 7em / 128px auto;
-  padding-top: 15em;
+  background: url("../images/two-leaves.svg") no-repeat .75em 10em / 90px auto;
+  padding-top: 20em;
   color: #fff;
 }
 
