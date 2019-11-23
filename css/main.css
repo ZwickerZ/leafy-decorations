@@ -41,8 +41,8 @@ html {
 }
 
 .banner-content {
-  background: url("../images/two-leaves.svg") no-repeat 0.75em 8em / 64px auto;
-  padding-top: 12em;
+  background: url("../images/two-leaves.svg") no-repeat 0.75em 7em / 128px auto;
+  padding-top: 15em;
   color: #fff;
 }
 
