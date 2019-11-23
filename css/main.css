@@ -3,11 +3,16 @@ html {
 }
 
 .masthead {
-
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px auto;
+  background-color: #588477;
+  border-top: 3px #145b1d solid;
+  border-bottom: 3px #145b1d solid;
 }
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -23,11 +28,13 @@ html {
 }
 
 .banner {
-
+  padding-top: 10em;
+  background:
+  url("../images/banner.jpg") no-repeat left top / cover,
+  url("../images/two-leaves.svg") no-repeat left top / 100% auto;
 }
 
 .banner-content {
-
 }
 
 @media only screen and (min-width: 60em) {
