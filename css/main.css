@@ -43,6 +43,7 @@ html {
     url("../images/banner.jpg") no-repeat center bottom / cover;
   border-bottom: 3px solid #2d5a4d ;
   padding-top: 11.75em;
+  background-position: center bottom;
 }
 
 .banner-content {
@@ -50,7 +51,7 @@ html {
   padding-top: 300px;
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-size: 90px 100px;
+  background-size: 100px 90px;
   background-position: .75em 180px;
 }
 
