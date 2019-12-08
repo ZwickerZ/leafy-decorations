@@ -41,8 +41,7 @@ html {
   background:
     linear-gradient(to top, rgba(16, 52, 41, .8) 1%, rgba(16, 52, 41, 0) 50%),
     url("../images/banner.jpg") no-repeat center bottom / cover;
-  border-bottom: 3px solid #2d5a4d ;
-  padding-top: 11.75em;
+  border-bottom: 3px solid #2d5a4d;
   background-position: center bottom;
 }
 
